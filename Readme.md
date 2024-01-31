@@ -1,4 +1,4 @@
-This repo is just an archive of my old RobotC programms that I wrote while I was learning robototechnics.
+This repo is just an archive of my old RobotC programms that I wrote while I was learning robotics.
 
 I've encountered different but really basic problems at that point. And I barely knew any of the following:
 C Syntax, algorithms, data structures (even arrays were a mystery). So I just to write code which will compile and sometimes solves my problem.
